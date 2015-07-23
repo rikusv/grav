@@ -15,5 +15,3 @@ content:
             - _callout
             - _features
 ---
-
-

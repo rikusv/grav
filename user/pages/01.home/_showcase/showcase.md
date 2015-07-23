@@ -9,6 +9,3 @@ buttons:
 
 # Welcome to Grav
 ## Crazy **Fast**, Ridiculously **Easy**, Amazingly **Powerful**...
-
-
-

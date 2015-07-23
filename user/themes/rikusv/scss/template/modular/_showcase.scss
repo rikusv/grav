@@ -9,7 +9,7 @@
             box-shadow: none;
 
             #logo h3 {
-                color: $header-text;
+                color: $showcase-text;
             }
             #navbar a {
                 color: $header-text;
@@ -26,7 +26,7 @@
         background-position: center;
 
         text-align: center;
-        color: $header-text;
+        color: $showcase-text;
         h1 {
             font-size: 4rem;
             margin-top: 0;
@@ -42,11 +42,11 @@
 
         .button {
             @extend .default-animation;
-            color: $header-text;
+            color: $showcase-text;
             padding: 0.7rem 2rem;
             margin-top: 2rem;
             background: rgba(255,255,255,0);
-            border: 1px solid $header-text;
+            border: 1px solid $showcase-text;
             border-radius: $border-radius;
             box-shadow: none;
             font-size: $core-font-size + 0.3rem;
