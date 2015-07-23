@@ -2,6 +2,9 @@
 title: Homepage Nurture
 menu: Nurture
 class: big
+taxonomy:
+    category: front
+    tag:
 features:
 	- header: Fast Growth
 	  text: "Lavender that is loved will grow fast. Perhaps not as fast as radishes, but certainly faster than an oak."

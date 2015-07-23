@@ -1,6 +1,9 @@
 ---
 title: Homepage Inbetween
 hidemenu: true
+taxonomy:
+    category: front
+    tag:
 buttons:
     - text: Read On
       url: /#nurture

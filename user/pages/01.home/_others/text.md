@@ -1,6 +1,9 @@
 ---
 title: Homepage Others
 menu: Friends
+taxonomy:
+    category: front
+    tag:
 icon: pagelines
 image_align: right
 ---

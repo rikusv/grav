@@ -4,3 +4,20 @@ author:
   email: 'someone@some.where'
 metadata:
     description: 'Lav is a pseudosite about lavender.'
+menu:
+  - mitem:
+    text:
+    url: http://twitter.com/rikusv
+    icon: twitter
+  - mitem:
+    text:
+    url: https://plus.google.com/+RikusvanVuuren
+    icon: google-plus
+  - mitem:
+    text:
+    url: https://www.linkedin.com/in/rikusvanvuuren
+    icon: linkedin
+  - mitem:
+    text: 
+    url: /#more
+    icon: search

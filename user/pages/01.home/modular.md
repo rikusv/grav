@@ -2,6 +2,9 @@
 title: In a nutshell
 menu: Home
 onpage_menu: true
+taxonomy:
+    category: front
+    tag:
 body_classes: "modular header-image fullwidth"
 
 content:

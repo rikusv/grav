@@ -2,6 +2,9 @@
 title: Homepage Heritage
 menu: Heritage
 class: big
+taxonomy:
+    category: front
+    tag:
 features:
 	- header: Fast Growth
 	  text: "Well bred lavender will outgrow Jack's beanstalk. If you sit with a stopwatch, you'll be amazed."

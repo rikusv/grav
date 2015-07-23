@@ -2,6 +2,9 @@
 title: Homepage Contact
 menu: Contact
 class: small
+taxonomy:
+    category: front
+    tag:
 features:
     - header: '+27 21 000 000'
       text: Cape Town
