@@ -3,10 +3,10 @@ title: Homepage Contact
 menu: Contact
 class: small
 features:
-    - header: '+27 21 444555'
+    - header: '+27 21 000 000'
       text: Cape Town
       icon: phone
-    - header: '+61 21 444555'
+    - header: '+61 4 000 000'
       text: Sydney
       icon: phone
     - header: me@some.where
