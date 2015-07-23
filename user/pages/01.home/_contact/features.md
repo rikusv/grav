@@ -18,4 +18,4 @@ features:
 ---
 
 ## Contact us
-Our main consulting office is in Sydney and our main development centre in in Cape Town.
+Our main lavender growing operation is in Sydney and our lavender research and optimisation centre is in Cape Town.
