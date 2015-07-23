@@ -1,11 +1,12 @@
 ---
 title: Homepage Showcase
-menu: Top
+menu: Home
+position: flush-top
 buttons:
-    - text: Read the Documentation
-      url: http://learn.getgrav.org
+    - text: Tell Me More
+      url: /#heritage
       primary: true
 ---
 
-# Welcome to Grav
-## Crazy **Fast**, Ridiculously **Easy**, Amazingly **Powerful**...
+# Purple Lavender
+## **Heritage + Nurture = Beauty**

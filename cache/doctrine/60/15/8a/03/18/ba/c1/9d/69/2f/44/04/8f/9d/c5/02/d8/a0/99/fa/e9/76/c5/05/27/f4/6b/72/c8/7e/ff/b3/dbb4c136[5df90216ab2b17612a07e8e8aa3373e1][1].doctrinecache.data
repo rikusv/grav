@@ -1,0 +1,34 @@
+1438252266
+s:1581:"<div class="modular-row features small">
+    <h2>Contact us</h2>
+<p>Our main consulting office is in Sydney and our main development centre in in Cape Town.</p>
+    <div class="feature-items">
+               <div class="feature">
+                                            <i class="fa fa-fw fa-phone"></i>
+                            <div class="feature-content icon-offset">
+                                    <h4>+27 21 000 000</h4>
+                                    <p>Cape Town</p>
+                        </div>
+        </div>
+               <div class="feature">
+                                            <i class="fa fa-fw fa-phone"></i>
+                            <div class="feature-content icon-offset">
+                                    <h4>+61 4 000 000</h4>
+                                    <p>Sydney</p>
+                        </div>
+        </div>
+               <div class="feature">
+                                            <a href="mailto:me@some.where"><i class="fa fa-fw fa-envelope-o"></i></a>
+                            <div class="feature-content icon-offset">
+                                    <h4>me@some.where</h4>
+                                    </div>
+        </div>
+               <div class="feature">
+                                            <a href="http://twitter.com/someone"><i class="fa fa-fw fa-twitter"></i></a>
+                            <div class="feature-content icon-offset">
+                                    <h4>@someone</h4>
+                                    </div>
+        </div>
+        </div>
+</div>
+";

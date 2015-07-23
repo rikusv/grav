@@ -32,9 +32,13 @@
         {% for module in page.collection() %}
 
             {% set current_module = (module.active or module.activeChild) ? 'active' : '' %}
-            <li class="{{ current_module }}"><a href="#{{ _self.pageLinkName(module.menu) }}">{{ module.menu }}</a></li>
+            {% if not module.header.hidemenu %}
+                <li class="{{ current_module }}"><a href="#{{ _self.pageLinkName(module.menu) }}">{{ module.menu }}</a></li>
+            {% else %}
+            {% endif %}
 
         {% endfor %}
+
     </ul>
     {% else %}
         {{  parent() }}

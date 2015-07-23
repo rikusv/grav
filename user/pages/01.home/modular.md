@@ -1,5 +1,5 @@
 ---
-title: One Page Demo Site
+title: In a nutshell
 menu: Home
 onpage_menu: true
 body_classes: "modular header-image fullwidth"
@@ -11,7 +11,10 @@ content:
         dir: asc
         custom:
             - _showcase
-            - _highlights
-            - _callout
-            - _features
+            - _heritage
+            - _inbetween
+            - _nurture
+            - _others
+            - _contact
+            - _more
 ---
