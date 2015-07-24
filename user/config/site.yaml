@@ -4,6 +4,8 @@ author:
   email: 'someone@some.where'
 metadata:
     description: 'Lav is a pseudosite about lavender.'
+summary:
+  size: 240
 menu:
   - mitem:
     text:
@@ -18,6 +20,6 @@ menu:
     url: https://www.linkedin.com/in/rikusvanvuuren
     icon: linkedin
   - mitem:
-    text: 
+    text:
     url: /#more
     icon: search
