@@ -50,8 +50,8 @@
         <p><a href="{{ page.url }}">Continue Reading...</a></p>
     {% else %}
         <p>{{ page.content }}</p>
-        {% if page.header.officemix %}
-          {% include 'partials/officemix.html.twig' %}
+        {% if page.header.video %}
+          {% include 'partials/video.html.twig' %}
         {% endif %}
         {% set show_prev_next = true %}
     {% endif %}
