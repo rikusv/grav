@@ -9,9 +9,9 @@ buttons:
       url: /blog
       primary: true
     - text: Math
-      url: /blog
+      url: /math
       primary: true
-search: true   
+search: true
 ---
 # More
 ## If you haven't had enough...
